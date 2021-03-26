@@ -1,0 +1,2 @@
+1	 ADMIN	 123123	 M	 Troubleshot-and-fix-computer-running-slow	 9/6/2020	 11/6/2020	 40	 (NORMAL)	 200.00	 (Debit/Credit)	 160.00
+2	 ADMIN	 21313	 M	 Troubleshot-and-fix-computer-running-slow	 10/11/2020	 11/11/2020	 70	 (NORMAL)	 10.00	 (Debit/Credit)	 -60.00
