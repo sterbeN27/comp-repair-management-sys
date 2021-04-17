@@ -2,7 +2,7 @@
 This is a simple service shop management program coded in C language.
 The program is going to be used by shop admin and engineer.
 
-## Tools:
+## Tool:
 - Microsoft Visual Studio 2019 Community
 
 ## The program is able to:
